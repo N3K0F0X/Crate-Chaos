@@ -1,5 +1,5 @@
 # Crate-Chaos
-Note: README Taken from Itch.io preview page.
+Note: README taken from private Itch.io preview page.
 
 Crate Chaos is a small game originally made in about a week of time, originally made as a chance to show off what the unity engine is in order for people who know little about video game design, sadly the project never was actually displayed but instead I decided to continue making small tweaks and changes here and there and eventually I do plan to return to work on the project to see it devloped into a more fully fledged game
 
@@ -7,4 +7,4 @@ While Crate Chaos was originally made with a simple idea of showing off the proc
 
 Thank you for spending your time reading, and hopefully, playing Crate Chaos. I hope you enjoy your short time with it as much as I enjoyed the short time spent on it.
 
-    N3K0F0X - Kat -
+Kat N3K0F0X
